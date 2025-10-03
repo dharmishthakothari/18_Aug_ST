@@ -1,0 +1,217 @@
+26th Sep
+
+	Selenium  -----
+		automation  tool
+		multi language supports  (java,python,javascript/c#)
+		advanced feature to test functionalities/thiry libraries
+		advanced framework
+		regressiona testing/functional testing
+
+	not single 
+		suite (collection  of components )
+		1. Selenium IDE (integrated developement envrieoment) - record and play back , initlialy 
+		2. Selenium RC (Remoew control)
+		3. Selenium Web Driver  - widely used 
+		4. Selenium Grid
+		
+	1. IDE 
+	2. Java  - data types,variables , conditional stmt , loop stmt , OOPS , collection , exception , file handling  - 
+
+	3. Web Driver - basic 
+			unti testing (jUnit)
+			TestNG 
+			Framework (Data Driven , keyword driven , hybrid )
+	
+	
+	Test cases ---> negative and positive precondition 
+			
+			to verify feature of application/functionlity
+			doccument , detail of test scenario
+			what to test - test scenarios
+			How to test - test case  (details )
+	Test Suite ---> collection/combine related test cases 
+
+	IDE - record and play - no programming needed 
+		exports test case 
+		add on of browser 
+
+	Advantages / Disadvatages 
+		easy to learn 
+		installation 
+		no programming knowledge is needed
+	
+		not update test case
+		latest version
+	
+	verify and assert 
+		
+					
+29th Sep
+
+	Selenium IDE --- recording & run - plugin/add ons 		 
+			comonenets 
+			
+			Export 
+			Test case - Test Suit - Script - Log -				
+			
+			Registration Form 
+			Assert - Verify 
+
+		Expected and Actual Result ?
+			requirements nd data  - Welcome to Tours 
+			execute time - actual result 
+
+		Assert and Verify  - not affect next execution then verify 	
+					Affect next steps then must use assert 
+
+		Assert.assertTrue(expted,actua)
+		
+
+		Test steps 1. Open browser, 2. Enter URL 3. Click Registration
+				Test data : username - user1 password - pass@123 
+	 
+		Lab task : Registration and login with different data
+		
+		Automation Brief ?
+			Manual Limited 
+			Accuracy
+			Human error
+			Easily bug find 
+			Time 
+			Advanced Testing features 
+			repeation
+
+			Tools 
+			What to Automate - What not Automate ?
+			Performance		Easy to use 
+			Responce time	-	when requirement are frequnty changes
+			Refreassion Testing  - steps cleanr , confuserd 
+
+		Selenium - Open source 
+			   Web Applcation
+			   steps to automate (type something , cliuck on soemthing ....select value from drop down , click on radio...)
+
+		
+1st Oct ---> What to Automate , Not Automate , selenium introduction ,
+assert - Verify 
+
+
+open Source 
+Browser supports 
+OS 
+Multiple langauges 
+Active community 
+WebDriver -- 
+CI/CD ? Continue Integration/Continue Developement 
+	
+
+UFT - Record playback 
+	Login username  - textbox
+		password  - textbox
+		ok - button
+	Object indetification easy record object identitfy IDE 
+	Reporting in built	
+	data driven testing
+
+
+Selenium Object indetification not easy as compare to 
+	reporting with thrd party
+	Exterrnal thrid party jar files 
+
+
+	JAVA
+	---	james gosline
+		coffee
+		
+		JVM
+		JDK-JRE
+		Operators 
+		conditional stmts
+		control stmts
+		OOPS
+		LOOPS
+		METHODS
+		Constructor
+		Exception
+		FileHandling
+		Collection - List,Set  , Map
+
+		Open source , programming,gaming , desktop,web,testing , platform independent 
+	
+		JVM-JRE-JDK
+		JAVA Virtual Machine - conversion   .java  compile (checking syntax) .class run class 
+		JDK - Java developement kit - all development kit/libaries are here
+		JRE - Java Runtime Envrionment - client machine 
+		
+		
+		No IDE 
+		Eclipse IDE /intell j /VS/Notepad	- .java
+		
+		install jdk (jre+jvm) - oracle  
+
+		install eclipse IDE
+
+		create in src/source folder 
+		
+		package --- collection of sub package,classes and interfaces
+		
+		Java file strucure 
+			First stmt is package stmt
+			import stmt (when you want other libaries to use )
+			class stmt
+		main() -- where execution starts 
+		print -- "hello world"
+		in built println() --- 
+		
+		3rd oct
+		
+		Java Introduction 
+			installation 
+			package
+			class
+			
+			data types and variables 
+			data types - specifies what type of data you want to store (numeric , characters . mixing , bdate)
+		co_no = numeric
+		name = character
+
+			java 2 categories 
+			1. Primitive  (int,long,float,double ,boolean, char)
+			2. Non-primitive  (array , class )
+
+		declaration 
+			int age
+		initlization 
+			age=20
+			
+		declare & initlize 
+			int age=20
+
+		Comments are non executable part of code
+			For infomration purpose
+
+		3 types of comments 
+			1. single line //
+			2. multiline /* 
+					*/
+			3. Documentation Comment
+					/**
+					*/
+		variable ? 
+			To store value ,whose value is changable
+			name ,age 
+	
+		Lab task : Implicite and explicite
+		Lab task : Accept Student Data from user (name,age,perctange,address)
+				float per=obj.nextFloat()
+				String name=obj.next()
+			
+		Opearators  : 
+		
+
+	
+			
+			
+		
+		
+	
