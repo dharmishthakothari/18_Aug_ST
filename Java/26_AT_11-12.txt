@@ -208,10 +208,47 @@ Selenium Object indetification not easy as compare to
 			
 		Opearators  : 
 		
+6th Oct
 
+	Variables 
+	data types 
+	comments
+	User input - Scanner 
+	operators
+		arithmatic  - +,-,* , / ,% , ++ , -- a++ , ++a
+		logical		 && , || ,!  ---> 
+				condItion1	condition2 	&& 	||
+				True		True		True	True
+				True		False		False	True
+				False		True		False	True
+				False		False		False	False
+ 
+			
+		assignments	+=,-=,*=,/=
+		relational  - >,<,>=,<=,==,!= compareing True/false
+				a>b True else False
+
+		bitwise		bytes - 0,1
+				& ,| , ^ ,<< , >>
+
+
+		ternary operator
+		instance of
 	
-			
-			
+		nodes - system with different combinations (os-browsers)
+		Hub - handle 
+
+		.java - .class -  output
+		javac - java  (compile/run)
+		Plateform independet - - bytecode - jvm 	
+		
+	
+		Lab task ---  use all the relational operators in single sop ,but display in new line (use \n)
+				& 	|
+			1010  0000 -0	1111 - 15
+			0101	
 		
 		
+		
+
 	
