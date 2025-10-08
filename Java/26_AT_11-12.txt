@@ -248,7 +248,72 @@ Selenium Object indetification not easy as compare to
 			1010  0000 -0	1111 - 15
 			0101	
 		
+		8th Oct
+			Operators - examples 
+			1. Assignment		-	+= , -= ,*= , /*  	a+=10  , a-=10
+			2. Relational 		-	>= , <= ,==,!= , >, <
+			3. Arithmatic		-	+,-,*,/,% 
+			4. Logical		-	&& , || , !
+			5. Bitwise		-	& ,	| ,<<,>>, !	 1011,
+			6. Ternary		-	condition?true:false
+							find bigger value from a and b 
+							(a>b)?a:b 
+							from single stmt find out which number is greater
+
+
+			Lab Task : find out greater number among 3 numbers (nested ternary)
+			
+			num1=20
+			num2=15
+			num3=5
+
+			num1>num2 & num1>num3 = num1
+			num2>num1 & num2>num3 =num2
+			num3>num1 & num3>num2 = num3
+				   True	- condition : False-condition
+			num1>num2?num1>num3?num1:num2>num3?num2:num3
+
+
+			Conditional stmt ---> when you have a options/alternatives 
+					 --- checks for conditions 
+					1. if 
+						if(condition)
+						{
+							//stmt 
+						}
+					2. if -else
+						Accept age from user and print where the user adult or not
+					3. if -else if
+						positive , nagetive and zero
+
+					4. nested if
+
+
+
+
+
 		
+
+		
+
+
+		
+
+
+
+
+				
+
+
+				
+		
+
+
+
+			
+		
+		
+
 		
 
 	
