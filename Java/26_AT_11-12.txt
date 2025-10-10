@@ -288,6 +288,36 @@ Selenium Object indetification not easy as compare to
 
 					4. nested if
 
+10th Oct
+--->Enter number and display relevant Day (1-momday , 2-Tuesday , 3-Wednesday .....7-Sunday)
+input : Enter number :3
+output : Wednesday
+
+---> Enter color and display relavent message (red- "Stop , yellow-"Go slow" , green - "Go")
+input : Enter Color : red
+output : Stop
+input : Enter Color :green
+output : Go slow
+
+--- > Enter Month number and print/display Month Name
+
+input : Enter number :2
+output : February
+
+input : Enter number :6
+output : June
+
+input : Enter number :16
+output : Invalid Month
+
+---> Enter year and display whther it's leap year or not (remainder /4 00 leap year)
+year%4==0 --Leap year
+
+input : Enter year : 2020
+output : 
+
+
+
 
 
 
@@ -315,5 +345,6 @@ Selenium Object indetification not easy as compare to
 		
 
 		
+
 
 	
