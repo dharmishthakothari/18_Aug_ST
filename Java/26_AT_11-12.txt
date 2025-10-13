@@ -316,7 +316,90 @@ year%4==0 --Leap year
 input : Enter year : 2020
 output : 
 
+13th Oct
+	
+	--->Enter Month number and print/display No of Days 
+		if(month==1)
+			sop("31 days")
+		else if(month==2)
+			sop("28/29 days")
+		else if(month==3)
+			sop("28/29 days")
+		else if(month==4)
+			sop("28/29 days")
 
+when there is too many conditions/alternatives at time if-else complicated / not readable 
+
+?
+switch case 
+
+swtich(month)
+{
+	case 1:sop("31 days");
+			break;
+	case 2: sop("28/29 days");
+			break;
+	case 3: sop("31 days");
+			break;
+	case 4:sop("31 days");
+			break;
+	case 5: sop("30 days");
+			break;
+	case 6: sop("31 days");
+			break;
+	case 7:sop("30 days");
+			break;
+	case 8: sop("30 days");
+			break;
+	case 9: sop("31 days");
+			break;
+	case 10:sop("31 days");
+			break;
+	case 11: sop("30 days");
+			break;
+	case 12: sop("31 days");
+			break;
+
+
+switch case : readable form 
+				syntax is easy / code is reduced 
+
+
+nested if : if with if 
+age
+isHaveLicence
+if(age>18)
+	{
+		if(isHaveLicence)
+//nested if
+			sop("you can drive ")
+		else
+			sop("Although you are adult ,still not having licence so could not driver")
+	}else("You are minor so could not drive")
+-------------------------------------------
+	if (age>18 && ishavelicence)
+		sop("You can drive");
+	else
+		sop("You can't drive")
+
+__________________________________________
+
+	if (age<18 && ishavelicence)
+		sop("You can drive");
+	else
+		sop("You can't drive")
+
+Proble stmt : age>18 
+				and weight is >45 
+				then user can donate blood
+				weight is below 45 "Underweight"
+				age<17 not eligilbe to donate blood
+	
+Looping :  iterate , continue , repeatation 
+
+1. while			- entry control loop
+2. do ...while		- exit control loop
+3. for 				- entry control loop
 
 
 
@@ -348,3 +431,4 @@ output :
 
 
 	
+
