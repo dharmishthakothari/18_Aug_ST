@@ -402,6 +402,39 @@ Looping :  iterate , continue , repeatation
 3. for 				- entry control loop
 
 
+17th Oct 
+
+while loop - enter range (start number -end number ) print those numbers 
+
+input Enter number start : 20
+	  Enter number end : 50
+
+20
+21
+22
+23
+24
+..
+50
+
+Lab task :1. Find/print those numbers (1-100)1 which are divisable by 5  (5,10,15,20 , 25....100)
+		  2. From number 1-100 print those numbers which is divisable by 5 and 7	((35 ,70 )
+
+do ...while 
+
+do
+{
+	stmt 
+}while(condition);
+
+do loop will always execute once if condition true or not 
+
+for(initlization;conidtion;increment/decrement)
+
+Lab task : perform all the loop programs with do while and for loop.
+
+
+
 
 
 
@@ -431,4 +464,5 @@ Looping :  iterate , continue , repeatation
 
 
 	
+
 
