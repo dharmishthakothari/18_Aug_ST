@@ -434,12 +434,73 @@ for(initlization;conidtion;increment/decrement)
 Lab task : perform all the loop programs with do while and for loop.
 
 
+27th Oct 
+
+conditional statements -- > if,if-else , if -else if , nested if
+loops - while , for , do...while
+
+while(condition)
+{
+	stmts
+}
+
+do
+{
+	stmts
+}while(condition);
+
+for(initilization;condition;increment/decrement)
+{
+	stmt
+}
 
 
+1-10
+print 
 
+print only even numbes from 1-100 
+
+print only those numbers divisable by 5 and 7 between 1-100
+
+diffrence - while - do while - for
+			1. entry control loop - while for 
+			   exit control loop - do while
+			2. no. of iteration is known - for 
+				no of iteration is not known in advance - do..while and while (Menu driven program user choice depend)	
+		1. Addition
+		2. Substraction
+		3. Mulplication 
+		4. Division
+		5. Exit 
+		Please enter your choice : 1
+		Please enter 2 numbers 10 20
+		Addition is = 30 
+
+		1. Addition
+		2. Substraction
+		3. Mulplication 
+		4. Division
+		5. Exit 
+		Please enter your choice : 4
+		Please enter 2 numbers 10 2
+		Division is = 5
+
+		1. Addition
+		2. Substraction
+		3. Mulplication 
+		4. Division
+		5. Exit 
+		Please enter your choice : 5
+		Ok TATA 
+
+		Lab task : Menu driven program in switch case 
+
+	break and continue --- > To break the loop based on condition 
+							continue - skip current iteration
+
+1-10 print and break when 5th iteration 
 
 		
-
 		
 
 
@@ -464,5 +525,6 @@ Lab task : perform all the loop programs with do while and for loop.
 
 
 	
+
 
 
