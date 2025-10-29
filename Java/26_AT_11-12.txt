@@ -500,7 +500,70 @@ diffrence - while - do while - for
 
 1-10 print and break when 5th iteration 
 
-		
+	29th Oct
+29th Oct 
+
+	Menu driven program 
+	break - continue 
+	
+	reverse digit 
+	Enter number - 23678
+	output        87632
+
+	87632
+	reminder 
+	division 
+
+	num=23678
+	num%10 = 8
+	num=num/10
+	num%10 = 7 
+	num=num/10
+	num%10 = 6
+	
+
+	Lab task : Find no of even and odd numbers from given number 
+	num=3467892
+	even = 4
+	odd = 3
+
+	Prime or not 
+	no is divisable by 1 or iteself
+		1,13,41,17,19...
+
+	21 = 
+	7 = 2
+	    3
+            4
+            5
+            6
+
+
+ 21 = 2
+      3 
+
+53 = 2
+	3
+4
+5
+6
+7
+8
+...
+52
+
+
+
+	Lab task :  find prime numbers from 1-100
+			nested loop 
+
+	
+	Pattern Programs - 	    c=1	
+				r=1 *
+				r=2 * *
+				r=3 * * *
+				r=4 * * * *
+
 		
 
 
@@ -525,6 +588,7 @@ diffrence - while - do while - for
 
 
 	
+
 
 
 
