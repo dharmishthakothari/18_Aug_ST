@@ -636,6 +636,84 @@ num[0] //2
 
 num[10] //exception
 
+5th Nov.
+
+Patterns , array 
+
+array - collection elements 
+2 types arrays 
+1st way - int[] numbers=new int[size];
+2nd way - int numbers[]={23,45,56,89,56}
+
+2 types 
+1. Single Dimentional  - int[] num;
+2. Multidimentional  - int [][] matrix;
+
+num[3]
+1st row 2 value
+matrix[0][1] 
+
+
+1. Program array elements total 
+ - elements input by user
+ - 11,23,56 =
+-1,2,3,4 = 
+
+2. no of Elements =3
+1st 23
+2nd 20
+3rd 21
+
+output 23 - odd
+       20 - even
+       21 - odd
+
+Lab task : Count no of even and odd numbers
+
+no of Elements =3
+1st 23
+2nd 20
+3rd 21
+
+output odd -2
+       even - 1
+
+
+Lab task : find numbers which are divisable by 5 and 7 from array elements 
+Lab task :  find squaroot of each array element
+no of element 4
+element 1 : 64
+element 2 : 4
+element 3 : 81
+element 4 : 30
+
+output 
+64 : 8
+4 : 2
+81 : 9
+30 : 5.
+
+
+2 D array
+row by col
+eg 
+     col1   col2   col3 
+row1 1 		2 		3
+row2 11 	22 		33
+
+int[][] matrix=new int[size_row][size_col];
+
+int[][] matrix=new int[2][3];
+
+matrix[0][0]= 1;
+matrix[0][1]= 2;
+matrix[0][2] =3;
+matrix[1][0]=11;
+matrix[1][1]=22;
+matrix[1][2]=33;
+
+
+
 
 
 
@@ -671,6 +749,7 @@ num[10] //exception
 
 
 	
+
 
 
 
