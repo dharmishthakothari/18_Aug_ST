@@ -712,6 +712,50 @@ matrix[1][0]=11;
 matrix[1][1]=22;
 matrix[1][2]=33;
 
+7th Nov
+
+1 2 3
+1 2 3
+
+
+1 2
+1 2
+
+1 2
+1 2 3
+1 2 3 4
+1
+
+
+array element access index 
+index 0
+5
+index 0 - 1st element 
+index 1 - 2nd element
+index 2 - 3rd element
+index 3 - 4th element
+index 4 - 5th element 
+index 5 ---
+num
+
+Add 2 matrix 
+
+1 - 20 50
+    20 50
+2   80 10
+    80 20
+
+ans 100 60
+    100 70
+
+Lab task : change in dynamix matrix
+--Diaglonal element sum
+
+1 2 3
+12 12 12
+13 1 1
+
+1+12+1 = 14
 
 
 
@@ -749,6 +793,7 @@ matrix[1][2]=33;
 
 
 	
+
 
 
 
