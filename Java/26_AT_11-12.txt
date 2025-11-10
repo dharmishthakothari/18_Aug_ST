@@ -757,6 +757,80 @@ Lab task : change in dynamix matrix
 
 1+12+1 = 14
 
+10th Nov
+  OOP - Object Oriented Programming
+  
+Proceudre/function oriented Language vs Object oritend 
+C programming Procedure oeritend 
+Java Object oriented 
+
+OOP features/concept  - match follow 
+1. class
+2. object
+3. Inheritance
+4. Encapsulation
+5. Polymorphisum
+6. Abstraction 
+
+
+1. Class  - It's blueprint of an object
+         - Collection of objects
+         - data memebers and memeber function
+         - state and behaviour 
+         Human - hands ,legs ,head,eyes......
+                 eating,speaking,running...
+
+         Person - id,name,age,address.....
+                  display , get
+
+        Vehical - model,cname , design,color
+                 driving 
+
+2. Object  - type of class
+           - object is real entity 
+           - instance of class
+		 - object have a therie own data and member function 
+dharmishtha is Human
+shruti is human 
+
+scooter is vehical 
+car is vehical 
+
+         functions - block of code which is perfroming perticular task 
+                     returntype function_name(parameters)
+                     {
+							stmt
+                     }
+
+                     1. user defined void set()
+                         
+                     2. in-build (println)
+
+
+Person  - name,age
+function
+setPerson
+displayPerson
+
+Second Example 
+
+create class named BankAccount
+have data - accNumber,accName,balance
+have function - setDetails(no,name,bal)
+                display() - displays details of account
+                deposit(amount) - balance is incremented
+                withdraw(amount) - balance is decremtend 
+
+BankAccount faisan=new BankAccount()
+faisan.setDetails(222,"Faisan",20000);
+
+BankAccount purvang=new BankAccount()
+purvang.setDetails(111,"FaisPurvangan",21000);
+
+faisan.deposit(2000)
+faisan.display()
+
+22000
 
 
 
@@ -793,6 +867,7 @@ Lab task : change in dynamix matrix
 
 
 	
+
 
 
 
