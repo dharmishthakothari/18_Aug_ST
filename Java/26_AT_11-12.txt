@@ -890,6 +890,56 @@ Assign details using a method
 Display book information
 Calculate and show the total value of all copies of a book (price × quantity)
 
+12th Nov
+
+Constructor vs methods 
+- 1. Name - constructor have a same name as class ,while method have diffenrent name
+ 2. return - constructor doesn't return 
+3. construcotr are called automatecally ,while method called by object
+4. construcotrs are used to initlize objects
+
+class
+object
+
+Inheritance - Parent-Child 
+Property of one class can use property of another class.
+reusability 
+
+Types of Inhertiance 
+Single		one parent , one child
+Multilevel  grandparents , parent , child
+Muliple     mother ,father , child - we can extends 2 classes in one class - which is not supported by  java - thru interface
+Hierrchical  C class use A & B
+Hybird   mixining of any upper inheritance 
+
+super -   when we call super class data/constructor or method then we can use 'super' 
+
+
+calculateArea 
+Rectangle : l*b
+Circle : 2*pi*r
+Triangle :1/2 ( b*h )
+Square : 2*side
+
+Lab task : Complete above program 
+
+Create a base class Vehicle with a constructor that takes a brand.
+Create a subclass Car that has an additional field model.
+Use super(brand) in Car’s constructor.
+Add a display() method that shows both brand and model.
+
+4.
+Base class Item → Subclasses: Book, Magazine, DVD
+Override a method displayInfo() to show unique details.
+
+5. 
+Base class Employee → Subclasses: Doctor, Nurse, Receptionist
+Each subclass overrides work() to show role-specific tasks.
+
+
+
+
+
 
 
 
@@ -925,6 +975,7 @@ Calculate and show the total value of all copies of a book (price × quantity)
 
 
 	
+
 
 
 
