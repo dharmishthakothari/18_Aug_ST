@@ -832,6 +832,64 @@ faisan.display()
 
 22000
 
+12th Nov
+
+
+Lab Task : 
+Design and implement a simple Java program to manage basic information about employees.
+Each employee has:
+A name , An ID number , A salary
+-------
+
+Create Employee objects
+
+Assign values to their attributes
+
+Display employee information
+
+second 
+
+Create a simple Java program to represent a bank account.
+Each bank account has:
+
+An account holder’s name - An account number - A balance
+
+create a class named BankAccount with:
+
+Data members: accHolderName, accNumber, balance
+
+Methods:
+
+setDetails(String name, int number, double bal) → to assign values
+
+deposit(double amount) → to add money to balance
+
+withdraw(double amount) → to subtract money if balance is sufficient
+
+displayInfo() → to display account details
+
+Create a main class (Main) that:
+
+Creates two BankAccount objects
+Calls the above methods to demonstrate deposits and withdrawals
+Withdraw money
+Display account details
+
+
+Third 
+
+Create a Java program to represent books in a library or bookstore.
+Each book has:
+
+A title - An author -  A price - A quantity (number of copies available)
+
+The program should:
+
+Allow creating Book objects
+Assign details using a method 
+Display book information
+Calculate and show the total value of all copies of a book (price × quantity)
+
 
 
 
@@ -867,6 +925,7 @@ faisan.display()
 
 
 	
+
 
 
 
