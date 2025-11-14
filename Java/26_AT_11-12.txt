@@ -936,6 +936,127 @@ Override a method displayInfo() to show unique details.
 Base class Employee → Subclasses: Doctor, Nurse, Receptionist
 Each subclass overrides work() to show role-specific tasks.
 
+14th Nov 
+- Constructor  same as class name 
+- class can have multiple construcotr
+- no return type
+- called automatically
+- to initlize object
+
+Inheritance ? 
+-Parent -child 
+- property of one class can use property of another class
+-extends 
+- Single,mulitple-support thru interface,multilevel , hierchical , hibrid
+
+- Polymorphism - one name many forms 
+	Ability to take more then one form is Polymorphisum 
+  Person can be employee , son , friend ,husband
+
+- 2 types poly
+1. Compile time Poly  /static binding -->  At the time of comilation it decides to call which method.
+										eg. Method Overloading 
+											Same method name and different type/no of arguments .
+
+2. Run time Polymorphisum /dynamic binding - >At the time of runtime it decides which method is going to call.
+										eg. method overriding 
+											same method name and same arguments
+
+
+Method Overloading 
+		Same method name and different arguments - addition can be of 2 ,3,4,.....n ,int,float,mixing
+		same class.
+
+We can overload constructor also.
+
+this - is keyword
+     - refer to current object
+
+
+Method Overriding - Same function name and same arguments 
+					inhertiance 
+
+
+
+
+Lab task : 
+
+Polymorphisum
+
+Create a class Shape with a method area().
+
+
+Create subclasses:
+Circle (with radius)
+
+
+Rectangle (with width and height)
+Override the area() method in each subclass.
+
+
+Create a method printArea(Shape s) in a separate ShapeTest class that prints the area.
+
+
+In main, call printArea() with both Circle and Rectangle.
+
+
+2.Create a class Animal with a method makeSound() that prints "Some sound".
+
+
+Create subclasses Dog and Cat that override makeSound() to print "Bark" and "Meow".
+
+
+In your main method:
+
+
+Create an array of Animal objects containing both Dog and Cat.
+
+
+Loop through the array and call makeSound().
+
+
+3. Create a base class Printer with a method print().
+
+Create subclasses LaserPrinter and InkjetPrinter overriding print().
+
+Add a method in the base class called testPrint(Printer p) that calls p.print().
+
+In main, pass different subclass instances to testPrint().
+
+
+4. Create an abstract class Shape with an abstract draw() method.
+
+
+Create Circle, Rectangle, and Triangle classes.
+
+
+Create a ShapeFactory class with a method getShape(String type) that returns a Shape.
+
+
+In main, get different shapes from the factory and call draw()
+
+
+5. Create a base class Player with a method attack().
+
+Create subclasses Warrior, Archer, and Mage.
+
+Each subclass overrides attack() with a unique message.
+
+Create an array of Player and simulate a battle by calling attack() on each.
+
+
+6. 
+Create a base class Bank with method getInterestRate() → 5.
+
+Create subclasses HDFCBank, ICICIBank, and SBIBank that override it with different rates.
+
+In main, create objects of each and print the rate.
+
+
+
+
+
+
 
 
 
@@ -975,6 +1096,7 @@ Each subclass overrides work() to show role-specific tasks.
 
 
 	
+
 
 
 
