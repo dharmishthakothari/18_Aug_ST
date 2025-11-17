@@ -1052,6 +1052,57 @@ Create subclasses HDFCBank, ICICIBank, and SBIBank that override it with differe
 
 In main, create objects of each and print the rate.
 
+17th Nov
+
+ class
+object
+inhertiance
+polymorphism 
+abstraction  - self study 
+interface 
+
+Encapsulation - wrapping data into single unit 
+				achive class 
+				data should be private
+				access thru methods 
+
+private - access within same class only
+default - access within same package only
+protected - accedd thru extends only 
+public - everywhere 
+
+
+access modifers - private,default,protected and public 
+
+this
+super
+final - class , methods , data 
+
+class final means this class can not be extended 
+method final meand this method must not be override 
+data it is constant .
+
+
+private data you can not outside class 
+
+pckages ? - sub packages and classes /interfaces 
+
+package abc;
+class XYZ
+{
+	private int data;
+	int data1;
+	protected int data2;
+}
+
+class ABC extends XYZ
+{
+}
+
+static - initilize only once 
+   - belogns to class not to object
+  - static data will be shared by all.
+ - method , data 
 
 
 
@@ -1096,6 +1147,7 @@ In main, create objects of each and print the rate.
 
 
 	
+
 
 
 
