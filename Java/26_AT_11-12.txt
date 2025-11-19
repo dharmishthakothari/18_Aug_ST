@@ -1104,6 +1104,55 @@ static - initilize only once
   - static data will be shared by all.
  - method , data 
 
+19th Nov
+- this , super ,static ,final 
+
+Wrapper classes - 
+
+classes - 
+2 in build - Scanner ,System 
+uuser defined - Person,Employee , OOPExample 
+
+GUI - Database 
+
+Wrapper classes - classes that equvalent to primitive 
+Primitive types  -int ,float,double,char,boolean
+					Integer , Float , Double ,Character,Booealn
+
+int i=10;
+Integer i;?
+
+Integer i=10;
+i.
+
+-collection stores objects 
+
+Mutable and immutable 
+
+String - immutable 
+String name="Shruti"
+
+name add surname 
+
+output = Shruti ajani 
+
+StringBuilder/StringBuffer - Mutable classes 
+
+append , reverse ,change,replace 
+
+
+JAVA - class - object -inehritance - poly (orverloading-overriding) ,
+this ,super,final , statis ,aarays ,loops ,conditional stmt
+modifiers , 
+operators - variables - data types 
+
+Exception Handling
+File
+Collection 
+
+
+
+
 
 
 
@@ -1147,6 +1196,7 @@ static - initilize only once
 
 
 	
+
 
 
 
