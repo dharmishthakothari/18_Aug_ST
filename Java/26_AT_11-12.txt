@@ -1150,6 +1150,37 @@ Exception Handling
 File
 Collection 
 
+21st nov 
+ - String 
+ - StringBuffer
+ - StringBuider
+
+Object class - It root class of all the java file 
+
+Each and every java class extends Object class default
+
+Exception? 
+
+Normal flow of execution terminate :
+
+2 types 1. Compile Time - MUST handle  - try,catch,throws - File Not Found Exception 
+2. Runtime Time 
+
+try block have either catch/finally or both 
+
+ASA you got exception catch block will executted and leaves try block
+
+
+more then one catch block 
+try{
+}catch(Excpetion e)
+{
+}
+
+try bloack 1000 lines 
+
+
+
 
 
 
@@ -1196,6 +1227,7 @@ Collection
 
 
 	
+
 
 
 
