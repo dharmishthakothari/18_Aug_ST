@@ -1180,6 +1180,37 @@ try{
 try bloack 1000 lines 
 
 
+24th Nov
+ - Exception handling - try/catch 
+ - throw / throws 
+ - finally 
+ - error handle / 
+ - compile time/run time Exception 
+ - FileNotFoundException , InputMismatchException,ArrayIndexOutofBounds , ArithmaticExcpetion(DivisionByZero)
+ - try (possiblity of error/handle compile time exception) catch - exception which may occur
+ - mutiple catch blockes 
+ - either you use try-catch or throws 
+ - finally - whether thr is error/exception or not finally always executes 
+ - 
+
+Java Collection 
+- single unit of objects 
+- group of object
+- objects may be diffrenet 
+- arragement/data structure 
+
+int[] numbers=new int[20];
+number[2]=23;
+
+ArrayList numbers;
+numbers.add(23.34);
+numbers.add(435l);
+numbers.add(435.4343f);
+
+
+
+
+
 
 
 
@@ -1227,6 +1258,7 @@ try bloack 1000 lines
 
 
 	
+
 
 
 
