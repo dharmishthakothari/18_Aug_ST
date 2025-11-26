@@ -1207,7 +1207,23 @@ numbers.add(23.34);
 numbers.add(435l);
 numbers.add(435.4343f);
 
+26th Nov
+ - Group of objects in single unit/object
+ - data strructure /arragment , retrival ,organize 
+ - List - allow dublicate - ordered  , Set - unique -unoreded , Queue - LIFO/FIFO
 
+Generics - <>
+
+
+1. create Phone class (Brand , Model , Price,Color) display 
+2. Create PhoneInventaroy collection 
+1. Add Phone
+2. Delete Phone
+3. Show all phones 
+4. Exit
+
+1. 
+    
 
 
 
@@ -1258,6 +1274,7 @@ numbers.add(435.4343f);
 
 
 	
+
 
 
 
