@@ -1223,7 +1223,13 @@ Generics - <>
 4. Exit
 
 1. 
-    
+28th Nov
+   - List , Set  - 
+Map - key and value 
+key must unique
+value may be dublicate 
+put
+
 
 
 
@@ -1274,6 +1280,7 @@ Generics - <>
 
 
 	
+
 
 
 
