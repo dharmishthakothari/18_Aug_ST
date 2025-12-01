@@ -1230,6 +1230,38 @@ key must unique
 value may be dublicate 
 put
 
+1st Dec
+
+- Operators 
+-Conditional stms
+- loops
+- oops
+   - inheritance
+	- Poly
+    class
+    o0bject
+	encapsulation
+	abstraction
+arrays
+contructors
+exception
+FileHandling
+	
+File ? - collection data , store permnenely 
+File - File related 
+
+Operation -open , read ,write ,append,delete
+
+Read-Write ?
+byte / char
+Stream class /ReaderWriter
+Byte - InputStream/OutputStrema
+Char - Reader/Writer
+
+File REading - Byte 
+Read data - input stream 
+
+Lab Task : Use read ,read methods , write ,write methods  
 
 
 
@@ -1280,6 +1312,7 @@ put
 
 
 	
+
 
 
 
