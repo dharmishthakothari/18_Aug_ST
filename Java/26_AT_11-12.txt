@@ -1266,6 +1266,24 @@ Lab Task : Use read ,read methods , write ,write methods
 3rd Dec
  - 
 
+5th Dec 
+
+Lab Task : 
+ Ask user for content untill user not entered "END" 
+
+Selenium ?
+       Software / Autmation tool
+       Selenium IDE - addon/plugin
+       Selenium have 4 coponenents 1. IDE,2. WebDriver ,  3. RC 4. Grid
+
+WebDriver 
+  - web application 
+  - browser supports 
+  - languages - java,python , C#
+  -
+
+
+
 
 
 
@@ -1313,6 +1331,7 @@ Lab Task : Use read ,read methods , write ,write methods
 
 
 	
+
 
 
 
