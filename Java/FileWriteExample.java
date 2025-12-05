@@ -12,6 +12,7 @@ public class FileWriteExample {
 		String s="Good Morning";
 		byte b[]=s.getBytes();
 		fos.write(b);
+		
 		System.out.println("File written Successfully");
 		}catch(Exception e)
 		{
