@@ -1282,6 +1282,21 @@ WebDriver
   - languages - java,python , C#
   -
 
+8th Dec
+  - Selenium integration 
+  - selenium + java + eclipse 
+  - selenium jar files / 
+
+Test steps 1. open browser 2. Enter URL 3. Click on resgiter 4. enter data
+
+1. WebDriver interface - Browser related 
+2. WebElement interface - web pages coponenets like text box,password,button,drop down
+
+
+Lab Task : close() ,quite() differentiate 
+Lab Taks : selenium.dev click on "Download" getTitle and URL again click on project and getTitle and URL 
+
+
 
 
 
@@ -1331,6 +1346,7 @@ WebDriver
 
 
 	
+
 
 
 
