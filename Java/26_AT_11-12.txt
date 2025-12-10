@@ -1296,7 +1296,13 @@ Test steps 1. open browser 2. Enter URL 3. Click on resgiter 4. enter data
 Lab Task : close() ,quite() differentiate 
 Lab Taks : selenium.dev click on "Download" getTitle and URL again click on project and getTitle and URL 
 
+10th Dec 
+   - Locators  - id , name , linktext , partiallinktext , classname , xpath , cssselector
 
+   - WebElements 
+
+
+Lab Task : Valid or invalid check thru URL
 
 
 
@@ -1346,6 +1352,7 @@ Lab Taks : selenium.dev click on "Download" getTitle and URL again click on proj
 
 
 	
+
 
 
 
