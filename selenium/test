@@ -1,1 +1,22 @@
+17th Dec
+ - text box ,password , button , drop down , check boxes , radio button , tables 
 
+drown down - Select obj=new Select(ele)
+byValue,byindex,byVisibletext
+
+<select><option>
+obj.selectbyindex(3);
+
+
+Lab TasK : check box days asked from user and click accoudingly , 
+  flipcart 
+
+1. open flipcart 
+2. ask user to enter Product
+3. click on that product 
+4. fetch all other products 
+5. got to back again 
+2. ask user to enter Product
+3. click on that product 
+4. fetch all other products 
+close the browser
