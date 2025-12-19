@@ -7,6 +7,19 @@ byValue,byindex,byVisibletext
 <select><option>
 obj.selectbyindex(3);
 
+19th Dec
+    tables  - static/dynamic 
+
+tables 
+<table>
+<tr><td>1<td>11<td>111<td></tr>
+<tr><td>2<td>22<td>222<td></tr>
+<tr><td><td><td><td></tr>
+<tr><td><td><td><td></tr>
+</table>
+
+
+
 
 Lab TasK : check box days asked from user and click accoudingly , 
   flipcart 
