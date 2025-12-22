@@ -35,6 +35,34 @@ Lab TasK : check box days asked from user and click accoudingly ,
 close the browser
 
 22nd Dec
+ - table / tr/td
+ - 
+
+TESTNG - testing next generation
+ installation - 
+
+testng.xml  - configration file 
+
+annotation  - data about the data @
+          when i enterd the data to webelement Page must opened so i can open bage in beforemethod and data should be enterd in @test 
+    browser must be close in @aftermethod
+
+username - a
+password - a
+
+username - 123
+password - edwsdfsdfsdf
+
+
+@metho
+
+Lab task : suite , test ,class  
+
+
+
+assertion 
+
+ 
  
 
 
