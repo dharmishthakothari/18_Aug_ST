@@ -63,6 +63,83 @@ assertion
 
  24th Dec 
     - 
- 
+ 26th Dec 
+
+Test Annotation
+TestNG assertion
+@Test -- attributes 
+enables 
+priority
+groups 
+dependson
+
+Lab task : invocationCount
+
+
+Task 1: Create a Basic TestNG Class
+Create a Java class named LoginTest.
+
+
+Add the following TestNG annotations:
+
+
+@BeforeClass
+
+
+@BeforeMethod
+
+
+@Test
+
+
+@AfterMethod
+
+
+@AfterClass
+
+
+Print a message inside each method to understand execution flow.
+
+
+Task 2: Multiple Test Methods
+Add three test methods:
+
+
+validLoginTest
+
+
+invalidLoginTest
+
+
+emptyLoginTest
+
+
+Use priority to control execution order.
+Task 3: Use Assertions
+Use Assert.assertEquals() and Assert.assertTrue()
+
+
+Simulate login result using variables.
+Task 4: Enable and Disable Test Cases
+Disable one test method using enabled = false
+
+
+Observe the execution result.
+Task 5: Grouping Test Cases
+Create two groups:
+
+
+smoke
+
+
+regression
+Task 6: Create testng.xml
+Create a testng.xml file
+
+Run only the smoke group.
+
+PARAMETERization 
+
+
 
 
