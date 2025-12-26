@@ -3,20 +3,27 @@ package basic;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class FlipKart_TitleCheck {
 	
 	WebDriver driver;
-	
+	@Parameters({"browser"})
 	@BeforeClass
-	public void openBrowser()
+	public void openBrowser(String browser)
 	{
-		driver=new FirefoxDriver();
+		if(browser.equals("Firefox"))
+			driver=new FirefoxDriver();
+		else if(browser.equals("chrome"))
+			driver=new ChromeDriver();
+		else
+			driver=new EdgeDriver();
 	}
 	@BeforeMethod
 	public void openHomePage()
