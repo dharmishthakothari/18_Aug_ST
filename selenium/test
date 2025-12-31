@@ -140,6 +140,15 @@ Run only the smoke group.
 
 PARAMETERization 
 
+31st Dec
+ - xml - testng.xml @parameters 
+ -data provider  TestNG class @DataProvider 
+
+---Paramterization ---- run same the script with diffrent data 
+username password
+a        a
+test     test@123
+123      pass@123
 
 
 
