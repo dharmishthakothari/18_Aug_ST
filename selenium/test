@@ -152,3 +152,34 @@ test     test@123
 
 
 --- 
+
+5th Jan
+Data Driven Testing 
+1. data external file - csv/excel 
+2. selenium 
+3. testng
+
+
+txt --read
+
+excel+testng+selenium 
+
+excel -- fis
+         library/jar/api 
+         POI --download - add external jar 
+
+         selenium jar download --add
+         TestNG 
+
+Maven - Project Management 
+Excel 
+      Workbook
+      Sheet
+      Row
+      Cell
+      Data 
+
+
+
+
+
