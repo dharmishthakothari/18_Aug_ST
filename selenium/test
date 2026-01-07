@@ -180,6 +180,27 @@ Excel
       Data 
 
 
+7th jan
+---
+Object[][] data={{"a","a"},{"test","test@123"},{"pass","pass@123"}};
+       0   1
+0  --- a  a
+1      test  test@123
+
+selenium --- testNG
+
+Lab task : Registration maven,selenenium,excel,testng
+
+Java ,
+Selenium componenets
+WebDriver --- locators 
+WebElements --> tables , checkbox......
+TestNG -- annotatations , attrributes ,parameterization , testngxmls
+
+Self-Study ---- scrollbar , drag and drop (Actions) ,rightclick ,double click 
+
+
+
 
 
 
