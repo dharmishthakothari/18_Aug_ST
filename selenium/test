@@ -203,5 +203,12 @@ Self-Study ---- scrollbar , drag and drop (Actions) ,rightclick ,double click
 9th Jan
 --- 
 
+12th Jan 
+   POM - Page Object Model 
+    Design Pattern
+  Base class --- open/quit 
+  Test class  -- TestNG Test  
+  Page class   --- Each Page have corspoding page class 
 
 
+HRMS -- POM convert 
