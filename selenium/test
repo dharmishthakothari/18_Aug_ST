@@ -212,3 +212,32 @@ Self-Study ---- scrollbar , drag and drop (Actions) ,rightclick ,double click
 
 
 HRMS -- POM convert 
+
+16th Jan
+  WebDriver         -- ChromeDriver , FirefoxDriver , EdgeDriver , methods (to,get,quit,close...windowHandler,manage)
+  WebElements       -- TextBoxes, Radio,checkbox ,dropdown , toggel , tables ,Button 
+  Locators          -- id ,  name , linktext , cssSelector ,classname, xpath (xpath vs cssselector )
+  Wait              
+Actions            -- doubleclick , rightclick ,draganddrop ,
+scroll 
+Alert             - inform , cinfirm , prompt
+testNG           
+  Annotations 
+  xml - configration
+  reporting
+  test annotaton property (group ,priority ,dependson , )
+  Paramterization xml - dataprovider
+
+Maven 
+     pom.xml
+     dependency
+     poi - excel
+     testNG (dataProvider) - Selenium - Poi
+
+Page Object Model - design Pattern 
+
+
+
+
+
+  
