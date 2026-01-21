@@ -1,0 +1,8 @@
+Query Paramters 
+
+To fetch all the products --- https://simple-grocery-store-api.click/products
+
+To fetch products for category 'bread-backery' and it must be available 
+https://simple-grocery-store-api.click/products?category=bread-bakery&available=true
+? ---
+& ---
