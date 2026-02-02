@@ -1,0 +1,19 @@
+2nd Feb
+ ---  Automation Testing 
+    --Core Java 
+    --Selenium IDE
+    --Selenium WebDriver   -TestNG - Maven - POM  (Functional testing/Web Application)
+    -- Postman  -
+
+Functional and non-functional 
+Non - functional testing
+How applicaiton works (usability,performance , load/stress , compatibilty )
+
+Jmeter 
+OpenSource , Java 
+
+
+  
+
+
+ 
