@@ -12,6 +12,9 @@ How applicaiton works (usability,performance , load/stress , compatibilty )
 Jmeter 
 OpenSource , Java 
 
+4th Feb
+    Jemeter ---- installation , 
+   open , test plan , test group , http request , listner(result)
 
   
 
