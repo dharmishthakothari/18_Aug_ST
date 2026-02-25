@@ -1,0 +1,7 @@
+1. google antigravity  - agent - 
+
+prompt /instructions 
+
+chat gpt -- create java project ---- 
+create java project 
+maven  -- selenum - testng 
